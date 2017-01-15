@@ -1,0 +1,14 @@
+P:\GuildDocs\InteractiveExercises\VSProjects\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+\\Mac\My Passport Pro\GuildDocs\InteractiveExercises\VSProjects\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\Users\benet\Coding\ben-etzkorn-individual-work\Fizz Bizz\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\Users\benet\Coding\ben-etzkorn-individual-work\Fizz Bizz\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
+C:\Users\benet\Coding\ben-etzkorn-individual-work\Fizz Bizz\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\Users\benet\Coding\ben-etzkorn-individual-work\Fizz Bizz\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Users\benet\Coding\ben-etzkorn-individual-work\Fizz Bizz\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\Users\benet\Coding\ben-etzkorn-individual-work\Fizz Bizz\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
+C:\Users\benet\Coding\ben-etzkorn-individual-work\FizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\Users\benet\Coding\ben-etzkorn-individual-work\FizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\Users\benet\Coding\ben-etzkorn-individual-work\FizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
+C:\Users\benet\Coding\ben-etzkorn-individual-work\FizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\Users\benet\Coding\ben-etzkorn-individual-work\FizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Users\benet\Coding\ben-etzkorn-individual-work\FizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache

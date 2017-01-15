@@ -1,0 +1,10 @@
+D:\Github\Curriculum2016\Unit2\Code_02_02_02\SG.Calculator.BLL\bin\Debug\SG.Calculator.BLL.dll
+D:\Github\Curriculum2016\Unit2\Code_02_02_02\SG.Calculator.BLL\bin\Debug\SG.Calculator.BLL.pdb
+D:\Github\Curriculum2016\Unit2\Code_02_02_02\SG.Calculator.BLL\obj\Debug\SG.Calculator.BLL.csprojResolveAssemblyReference.cache
+D:\Github\Curriculum2016\Unit2\Code_02_02_02\SG.Calculator.BLL\obj\Debug\SG.Calculator.BLL.dll
+D:\Github\Curriculum2016\Unit2\Code_02_02_02\SG.Calculator.BLL\obj\Debug\SG.Calculator.BLL.pdb
+C:\Users\benet\Coding\ben-etzkorn-individual-work\SG.Calculator\SG.Calculator.BLL\bin\Debug\SG.Calculator.BLL.dll
+C:\Users\benet\Coding\ben-etzkorn-individual-work\SG.Calculator\SG.Calculator.BLL\bin\Debug\SG.Calculator.BLL.pdb
+C:\Users\benet\Coding\ben-etzkorn-individual-work\SG.Calculator\SG.Calculator.BLL\obj\Debug\SG.Calculator.BLL.csprojResolveAssemblyReference.cache
+C:\Users\benet\Coding\ben-etzkorn-individual-work\SG.Calculator\SG.Calculator.BLL\obj\Debug\SG.Calculator.BLL.dll
+C:\Users\benet\Coding\ben-etzkorn-individual-work\SG.Calculator\SG.Calculator.BLL\obj\Debug\SG.Calculator.BLL.pdb

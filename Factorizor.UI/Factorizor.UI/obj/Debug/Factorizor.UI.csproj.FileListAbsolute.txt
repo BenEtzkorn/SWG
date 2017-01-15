@@ -1,0 +1,12 @@
+C:\Users\benet\Coding\ben-etzkorn-individual-work\Factorizor.UI\Factorizor.UI\Factorizor.UI\bin\Debug\Factorizor.UI.exe.config
+C:\Users\benet\Coding\ben-etzkorn-individual-work\Factorizor.UI\Factorizor.UI\Factorizor.UI\obj\Debug\Factorizor.UI.csprojResolveAssemblyReference.cache
+C:\Users\benet\Coding\ben-etzkorn-individual-work\Factorizor.UI\Factorizor.UI\Factorizor.UI\bin\Debug\Factorizor.UI.exe
+C:\Users\benet\Coding\ben-etzkorn-individual-work\Factorizor.UI\Factorizor.UI\Factorizor.UI\bin\Debug\Factorizor.UI.pdb
+C:\Users\benet\Coding\ben-etzkorn-individual-work\Factorizor.UI\Factorizor.UI\Factorizor.UI\obj\Debug\Factorizor.UI.exe
+C:\Users\benet\Coding\ben-etzkorn-individual-work\Factorizor.UI\Factorizor.UI\Factorizor.UI\obj\Debug\Factorizor.UI.pdb
+C:\Users\benet\Coding\ben-etzkorn-individual-work\Factorizor.UI\Factorizor.UI\bin\Debug\Factorizor.UI.exe.config
+C:\Users\benet\Coding\ben-etzkorn-individual-work\Factorizor.UI\Factorizor.UI\obj\Debug\Factorizor.UI.exe
+C:\Users\benet\Coding\ben-etzkorn-individual-work\Factorizor.UI\Factorizor.UI\obj\Debug\Factorizor.UI.pdb
+C:\Users\benet\Coding\ben-etzkorn-individual-work\Factorizor.UI\Factorizor.UI\bin\Debug\Factorizor.UI.exe
+C:\Users\benet\Coding\ben-etzkorn-individual-work\Factorizor.UI\Factorizor.UI\bin\Debug\Factorizor.UI.pdb
+C:\Users\benet\Coding\ben-etzkorn-individual-work\Factorizor.UI\Factorizor.UI\obj\Debug\Factorizor.UI.csprojResolveAssemblyReference.cache

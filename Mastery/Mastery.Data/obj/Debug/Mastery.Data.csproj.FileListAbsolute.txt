@@ -1,0 +1,14 @@
+C:\Users\benet\Coding\ben-etzkorn-individual-work\Mastery\ConsoleApp1\Mastery.Data\bin\Debug\Mastery.Data.dll
+C:\Users\benet\Coding\ben-etzkorn-individual-work\Mastery\ConsoleApp1\Mastery.Data\bin\Debug\Mastery.Data.pdb
+C:\Users\benet\Coding\ben-etzkorn-individual-work\Mastery\ConsoleApp1\Mastery.Data\bin\Debug\Mastery.Models.dll
+C:\Users\benet\Coding\ben-etzkorn-individual-work\Mastery\ConsoleApp1\Mastery.Data\bin\Debug\Mastery.Models.pdb
+C:\Users\benet\Coding\ben-etzkorn-individual-work\Mastery\ConsoleApp1\Mastery.Data\obj\Debug\Mastery.Data.csprojResolveAssemblyReference.cache
+C:\Users\benet\Coding\ben-etzkorn-individual-work\Mastery\ConsoleApp1\Mastery.Data\obj\Debug\Mastery.Data.dll
+C:\Users\benet\Coding\ben-etzkorn-individual-work\Mastery\ConsoleApp1\Mastery.Data\obj\Debug\Mastery.Data.pdb
+C:\Users\benet\Coding\ben-etzkorn-individual-work\Mastery\Mastery.Data\bin\Debug\Mastery.Data.dll
+C:\Users\benet\Coding\ben-etzkorn-individual-work\Mastery\Mastery.Data\bin\Debug\Mastery.Data.pdb
+C:\Users\benet\Coding\ben-etzkorn-individual-work\Mastery\Mastery.Data\bin\Debug\Mastery.Models.dll
+C:\Users\benet\Coding\ben-etzkorn-individual-work\Mastery\Mastery.Data\bin\Debug\Mastery.Models.pdb
+C:\Users\benet\Coding\ben-etzkorn-individual-work\Mastery\Mastery.Data\obj\Debug\Mastery.Data.csprojResolveAssemblyReference.cache
+C:\Users\benet\Coding\ben-etzkorn-individual-work\Mastery\Mastery.Data\obj\Debug\Mastery.Data.dll
+C:\Users\benet\Coding\ben-etzkorn-individual-work\Mastery\Mastery.Data\obj\Debug\Mastery.Data.pdb

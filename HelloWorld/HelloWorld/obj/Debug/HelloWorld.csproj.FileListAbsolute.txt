@@ -1,0 +1,12 @@
+C:\Users\benet\AppData\Local\Temporary Projects\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\benet\AppData\Local\Temporary Projects\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\benet\AppData\Local\Temporary Projects\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\benet\AppData\Local\Temporary Projects\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\benet\AppData\Local\Temporary Projects\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\benet\AppData\Local\Temporary Projects\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\benet\Coding\ben-etzkorn-individual-work\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\benet\Coding\ben-etzkorn-individual-work\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\benet\Coding\ben-etzkorn-individual-work\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\benet\Coding\ben-etzkorn-individual-work\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\benet\Coding\ben-etzkorn-individual-work\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\benet\Coding\ben-etzkorn-individual-work\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache

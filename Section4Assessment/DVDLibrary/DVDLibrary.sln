@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DvDLibrary.UI", "DVDLibrary\DvDLibrary.UI.csproj", "{964B9491-F5EF-4818-B37F-07928A6CF4F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DvdLibrary.Tests", "DvdLibrary.Tests\DvdLibrary.Tests.csproj", "{3F5A6947-AD2B-4059-AE01-FB59A3D65D13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DvdLibrary.Models", "DvdLibrary.Models\DvdLibrary.Models.csproj", "{227ACA86-5CAC-4ED8-9C95-006C1A24DCBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DvdLibrary.Data", "DvdLibrary.Data\DvdLibrary.Data.csproj", "{EDD75D5F-42E8-432F-87EB-FF59A1D9F145}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{964B9491-F5EF-4818-B37F-07928A6CF4F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{964B9491-F5EF-4818-B37F-07928A6CF4F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{964B9491-F5EF-4818-B37F-07928A6CF4F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{964B9491-F5EF-4818-B37F-07928A6CF4F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F5A6947-AD2B-4059-AE01-FB59A3D65D13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F5A6947-AD2B-4059-AE01-FB59A3D65D13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F5A6947-AD2B-4059-AE01-FB59A3D65D13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F5A6947-AD2B-4059-AE01-FB59A3D65D13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{227ACA86-5CAC-4ED8-9C95-006C1A24DCBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{227ACA86-5CAC-4ED8-9C95-006C1A24DCBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{227ACA86-5CAC-4ED8-9C95-006C1A24DCBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{227ACA86-5CAC-4ED8-9C95-006C1A24DCBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDD75D5F-42E8-432F-87EB-FF59A1D9F145}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDD75D5F-42E8-432F-87EB-FF59A1D9F145}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDD75D5F-42E8-432F-87EB-FF59A1D9F145}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDD75D5F-42E8-432F-87EB-FF59A1D9F145}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

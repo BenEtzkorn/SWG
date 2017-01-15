@@ -1,0 +1,251 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Weather App</title>
+        <!-- Bootstrap core CSS -->
+        <link href="css/bootstrap.css"
+              rel="stylesheet">
+    </head>
+    <body>
+
+        <div class="container">
+
+          <div class = "row"  col-md-12 >
+
+            <h1 align="center">Weather Page</h1>
+            <hr/>
+
+          </div>
+
+    			<div class = "row">
+
+            <div class="errorMessages">
+            <ul class="list-group-item-danger" id="errorMessages">'Please enter a correct Zipcode containing five numbers'</ul>
+            </p>
+            </div>
+
+    				<form class='form-horizontal' role='form' id='getzipcode'>
+
+    					<div class="form-group">
+
+    						<label for="zipcode" class="col-md-offset-1 col-md-1 control-label" align="right">Zipcode: </label>
+
+    						<div class="col-md-4">
+    										<input type="text"
+                            maxlength="5"
+                            minlength="5"
+                            pattern="[0-9]{5}"
+    											  class="form-control"
+    											  id="zipcode"
+    											  placeholder="Zipcode" required/>
+    						</div>
+
+                <label for="units" class="col-md-1 control-label" align="right">Units: </label>
+
+                <div class="col-md-2">
+                      <select class="form-control" id="units">
+                        <option>Imperial</option>
+                        <option>Metric</option>
+                      </select>
+
+    						</div>
+
+    						<div class="col-md-3">
+    									<button type="button"
+    											id="getBasicWeatherButton"
+    											class="btn btn-default">
+    										Get Weather
+    									</button>
+    						</div>
+
+    					</div>
+
+    				</form>
+
+    			</div>
+
+      <div class="Start">
+
+          <div class ="row" id="zipheader">
+
+          <hr/>
+
+          <left><h4><ul class="list-group" id="currentCity"></ul></h4></left>
+
+          </div>
+
+          <div class ="row">
+
+    			  <div class="col-md-1">
+
+              <img id="zipPic" src="" alt="Current Weather Pic" height="50" width="50">
+
+            </div>
+
+    				<div class="col-md-3" id="zipdesc">
+
+    				<ul class="list-group" id="currentDescription"></ul>
+
+    				</div>
+
+    				<div class="col-md-1">
+
+    				</div>
+
+    				<div class="col-md-3">
+
+              <ul class="list-group" id="currentWeather"></ul>
+              <ul class="list-group" id="currentHumidity"></ul>
+              <ul class="list-group" id="currentWind"></ul>
+
+    				</div>
+
+    				<div class="col-md-2">
+
+
+    				</div>
+
+
+    			</div>
+
+    			<div class ="row">
+
+            <hr/>
+
+            <left><h4>Five Day Forecast:</h4></left>
+
+            <div class="col-md-1"></div>
+
+            <div class="col-md-2">
+
+              <center>
+
+                  <ul class="list-group" id="date0" align=center></ul>
+
+                  <table>
+
+                    <tr>
+                      <td><img id="day0ico" src="" alt="Day 1 FCST Weather Pic" height="50" width="50"></td>
+
+                      <td><ul class="list-group" id="day0main"></ul></td>
+                    </tr>
+
+                  </table>
+
+                  <ul class="list-group" id="HL0"></ul>
+
+                </center>
+
+          </div>
+
+          <div class="col-md-2">
+
+            <center>
+
+              <ul class="list-group" id="date1"></ul>
+
+              <table>
+
+              <tr>
+                  <td>
+                      <img id="day1ico" src="" alt="Day 2 FCST Weather Pic" height="50" width="50">
+                  </td>
+                  <td>
+                      <ul class="list-group" id="day1main"></ul>
+                  </td>
+              </tr>
+
+            </table>
+
+                  <ul class="list-group" id="HL1"></ul>
+
+            </center>
+
+          </div>
+
+          <div class="col-md-2">
+
+            <center>
+
+                  <ul class="list-group" id="date2"></ul>
+
+              <table>
+
+              <tr>
+                  <td>
+                      <img id="day2ico" src="" alt="Day 3 FCST Weather Pic" height="50" width="50">
+                  </td>
+                  <td>
+                      <ul class="list-group" id="day2main"></ul>
+                  </td>
+              </tr>
+
+              </table>
+
+                <ul class="list-group" id="HL2"></ul>
+
+            </center>
+
+        </div>
+
+        <div class="col-md-2">
+
+          <center>
+
+                <ul class="list-group" id="date3"></ul>
+
+            <table>
+
+            <tr>
+                <td>
+                    <img id="day3ico" src="" alt="Day 4 FCST Weather Pic" height="50" width="50">
+                </td>
+                <td>
+                    <ul class="list-group" id="day3main"></ul>
+                </td>
+            </tr>
+
+          </table>
+
+              <ul class="list-group" id="HL3"></ul>
+
+          </center>
+
+        </div>
+
+        <div class="col-md-2">
+
+          <center>
+
+                <ul class="list-group" id="date4"></ul>
+
+            <table>
+
+            <tr>
+                <td>
+                    <img id="day4ico" src="" alt="Day 5 FCST Weather Pic" height="50" width="50">
+                </td>
+                <td>
+                    <ul class="list-group" id="day4main"></ul>
+                </td>
+            </tr>
+
+          </table>
+
+              <ul class="list-group" id="HL4"></ul>
+
+          </center>
+
+    				<div class="col-md-1"></div>
+
+    			</div>
+
+        </div>
+      </div>
+
+            <script src="js/jquery-2.2.4.min.js"></script>
+            <script src="js/bootstrap.js"></script>
+            <script src="js/contactList.js"></script>
+            <script src="js/home.js"></script>
+    </body>
+</html>

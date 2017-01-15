@@ -1,0 +1,5 @@
+C:\Users\benet\Coding\ben-etzkorn-individual-work\StringCalculatorKata\StringCalculatorKata\bin\Debug\StringCalculatorKata.dll
+C:\Users\benet\Coding\ben-etzkorn-individual-work\StringCalculatorKata\StringCalculatorKata\bin\Debug\StringCalculatorKata.pdb
+C:\Users\benet\Coding\ben-etzkorn-individual-work\StringCalculatorKata\StringCalculatorKata\obj\Debug\StringCalculatorKata.csprojResolveAssemblyReference.cache
+C:\Users\benet\Coding\ben-etzkorn-individual-work\StringCalculatorKata\StringCalculatorKata\obj\Debug\StringCalculatorKata.dll
+C:\Users\benet\Coding\ben-etzkorn-individual-work\StringCalculatorKata\StringCalculatorKata\obj\Debug\StringCalculatorKata.pdb

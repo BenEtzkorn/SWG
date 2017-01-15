@@ -1,0 +1,10 @@
+C:\Git\Curriculum2016\Unit2\Code\RPG.Inventory\RPG.Inventory\bin\Debug\RPG.Inventory.dll
+C:\Git\Curriculum2016\Unit2\Code\RPG.Inventory\RPG.Inventory\bin\Debug\RPG.Inventory.pdb
+C:\Git\Curriculum2016\Unit2\Code\RPG.Inventory\RPG.Inventory\obj\Debug\RPG.Inventory.csprojResolveAssemblyReference.cache
+C:\Git\Curriculum2016\Unit2\Code\RPG.Inventory\RPG.Inventory\obj\Debug\RPG.Inventory.dll
+C:\Git\Curriculum2016\Unit2\Code\RPG.Inventory\RPG.Inventory\obj\Debug\RPG.Inventory.pdb
+C:\Git\Curriculum2016\Unit3\RPG.Inventory\RPG.Inventory\obj\Debug\RPG.Inventory.csprojResolveAssemblyReference.cache
+C:\Git\Curriculum2016\Unit3\RPG.Inventory\RPG.Inventory\obj\Debug\RPG.Inventory.dll
+C:\Git\Curriculum2016\Unit3\RPG.Inventory\RPG.Inventory\obj\Debug\RPG.Inventory.pdb
+C:\Git\Curriculum2016\Unit3\RPG.Inventory\RPG.Inventory\bin\Debug\RPG.Inventory.dll
+C:\Git\Curriculum2016\Unit3\RPG.Inventory\RPG.Inventory\bin\Debug\RPG.Inventory.pdb

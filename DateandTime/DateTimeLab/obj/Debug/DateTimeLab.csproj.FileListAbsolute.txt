@@ -1,0 +1,10 @@
+C:\Users\Public\Documents\BitBucket\datetimelab\DateTimeLab\DateTimeLab\bin\Debug\DateTimeLab.dll
+C:\Users\Public\Documents\BitBucket\datetimelab\DateTimeLab\DateTimeLab\bin\Debug\DateTimeLab.pdb
+C:\Users\Public\Documents\BitBucket\datetimelab\DateTimeLab\DateTimeLab\obj\Debug\DateTimeLab.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\BitBucket\datetimelab\DateTimeLab\DateTimeLab\obj\Debug\DateTimeLab.dll
+C:\Users\Public\Documents\BitBucket\datetimelab\DateTimeLab\DateTimeLab\obj\Debug\DateTimeLab.pdb
+C:\Users\benet\Coding\ben-etzkorn-individual-work\DateandTime\DateTimeLab\bin\Debug\DateTimeLab.dll
+C:\Users\benet\Coding\ben-etzkorn-individual-work\DateandTime\DateTimeLab\bin\Debug\DateTimeLab.pdb
+C:\Users\benet\Coding\ben-etzkorn-individual-work\DateandTime\DateTimeLab\obj\Debug\DateTimeLab.csprojResolveAssemblyReference.cache
+C:\Users\benet\Coding\ben-etzkorn-individual-work\DateandTime\DateTimeLab\obj\Debug\DateTimeLab.dll
+C:\Users\benet\Coding\ben-etzkorn-individual-work\DateandTime\DateTimeLab\obj\Debug\DateTimeLab.pdb

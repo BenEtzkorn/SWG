@@ -1,0 +1,27 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap-theme.min.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="container"><!--will put gutter and spacing in for us-->
+        <h1>Welcome to Employee Management</h1>
+        <p>
+            Click @Html.ActionLink("here", "List", "Employees") to view your employees. <!--ActionLink says you are going to link to the controller-->
+        <!--first parameter is always a string and what you want link called, then it is the action/method you want run, finally what controller to find the method in-->
+        </p>
+    </div>
+
+    <script src="~/Scripts/jquery-3.1.0.min.js"></script><!--drag and drop in once updating with NuGet-->
+    <script src="~/Scripts/bootstrap.min.js"></script>
+</body>
+</html>

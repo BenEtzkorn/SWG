@@ -1,0 +1,18 @@
+C:\Users\Public\Documents\SGBitbucket\january2016dotnetakronmaterials\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe.config
+C:\Users\Public\Documents\SGBitbucket\january2016dotnetakronmaterials\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe
+C:\Users\Public\Documents\SGBitbucket\january2016dotnetakronmaterials\GuessingGame\GuessingGame\bin\Debug\GuessingGame.pdb
+C:\Users\Public\Documents\SGBitbucket\january2016dotnetakronmaterials\GuessingGame\GuessingGame\obj\Debug\GuessingGame.csprojResolveAssemblyReference.cache
+C:\Users\Public\Documents\SGBitbucket\january2016dotnetakronmaterials\GuessingGame\GuessingGame\obj\Debug\GuessingGame.exe
+C:\Users\Public\Documents\SGBitbucket\january2016dotnetakronmaterials\GuessingGame\GuessingGame\obj\Debug\GuessingGame.pdb
+C:\Users\benet\Dropbox\swg\Warmups\Guessing Game\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe.config
+C:\Users\benet\Dropbox\swg\Warmups\Guessing Game\GuessingGame\GuessingGame\obj\Debug\GuessingGame.exe
+C:\Users\benet\Dropbox\swg\Warmups\Guessing Game\GuessingGame\GuessingGame\obj\Debug\GuessingGame.pdb
+C:\Users\benet\Dropbox\swg\Warmups\Guessing Game\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe
+C:\Users\benet\Dropbox\swg\Warmups\Guessing Game\GuessingGame\GuessingGame\bin\Debug\GuessingGame.pdb
+C:\Users\benet\Dropbox\swg\Warmups\Guessing Game\GuessingGame\GuessingGame\obj\Debug\GuessingGame.csprojResolveAssemblyReference.cache
+C:\Users\benet\Coding\ben-etzkorn-individual-work\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe.config
+C:\Users\benet\Coding\ben-etzkorn-individual-work\GuessingGame\GuessingGame\obj\Debug\GuessingGame.exe
+C:\Users\benet\Coding\ben-etzkorn-individual-work\GuessingGame\GuessingGame\obj\Debug\GuessingGame.pdb
+C:\Users\benet\Coding\ben-etzkorn-individual-work\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe
+C:\Users\benet\Coding\ben-etzkorn-individual-work\GuessingGame\GuessingGame\bin\Debug\GuessingGame.pdb
+C:\Users\benet\Coding\ben-etzkorn-individual-work\GuessingGame\GuessingGame\obj\Debug\GuessingGame.csprojResolveAssemblyReference.cache

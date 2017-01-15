@@ -1,0 +1,10 @@
+C:\Users\benet\Coding\ben-etzkorn-individual-work\Mastery\ConsoleApp1\Mastery.Models\bin\Debug\Mastery.Models.dll
+C:\Users\benet\Coding\ben-etzkorn-individual-work\Mastery\ConsoleApp1\Mastery.Models\bin\Debug\Mastery.Models.pdb
+C:\Users\benet\Coding\ben-etzkorn-individual-work\Mastery\ConsoleApp1\Mastery.Models\obj\Debug\Mastery.Models.csprojResolveAssemblyReference.cache
+C:\Users\benet\Coding\ben-etzkorn-individual-work\Mastery\ConsoleApp1\Mastery.Models\obj\Debug\Mastery.Models.dll
+C:\Users\benet\Coding\ben-etzkorn-individual-work\Mastery\ConsoleApp1\Mastery.Models\obj\Debug\Mastery.Models.pdb
+C:\Users\benet\Coding\ben-etzkorn-individual-work\Mastery\Mastery.Models\bin\Debug\Mastery.Models.dll
+C:\Users\benet\Coding\ben-etzkorn-individual-work\Mastery\Mastery.Models\bin\Debug\Mastery.Models.pdb
+C:\Users\benet\Coding\ben-etzkorn-individual-work\Mastery\Mastery.Models\obj\Debug\Mastery.Models.dll
+C:\Users\benet\Coding\ben-etzkorn-individual-work\Mastery\Mastery.Models\obj\Debug\Mastery.Models.pdb
+C:\Users\benet\Coding\ben-etzkorn-individual-work\Mastery\Mastery.Models\obj\Debug\Mastery.Models.csprojResolveAssemblyReference.cache

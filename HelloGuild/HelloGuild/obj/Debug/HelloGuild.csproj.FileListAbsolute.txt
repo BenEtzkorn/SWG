@@ -1,0 +1,7 @@
+C:\Users\benet\AppData\Local\Temporary Projects\HelloGuild\bin\Debug\HelloGuild.exe.config
+C:\Users\benet\Coding\ben-etzkorn-individual-work\HelloGuild\HelloGuild\bin\Debug\HelloGuild.exe.config
+C:\Users\benet\Coding\ben-etzkorn-individual-work\HelloGuild\HelloGuild\bin\Debug\HelloGuild.exe
+C:\Users\benet\Coding\ben-etzkorn-individual-work\HelloGuild\HelloGuild\bin\Debug\HelloGuild.pdb
+C:\Users\benet\Coding\ben-etzkorn-individual-work\HelloGuild\HelloGuild\obj\Debug\HelloGuild.csprojResolveAssemblyReference.cache
+C:\Users\benet\Coding\ben-etzkorn-individual-work\HelloGuild\HelloGuild\obj\Debug\HelloGuild.exe
+C:\Users\benet\Coding\ben-etzkorn-individual-work\HelloGuild\HelloGuild\obj\Debug\HelloGuild.pdb

@@ -1,0 +1,18 @@
+\\Mac\My Passport Pro\GuildDocs\InteractiveExercises\VSProjects\Warmups\Warmups.Tests\bin\Debug\Warmups.Tests.dll
+\\Mac\My Passport Pro\GuildDocs\InteractiveExercises\VSProjects\Warmups\Warmups.Tests\bin\Debug\Warmups.Tests.pdb
+\\Mac\My Passport Pro\GuildDocs\InteractiveExercises\VSProjects\Warmups\Warmups.Tests\bin\Debug\nunit.framework.dll
+\\Mac\My Passport Pro\GuildDocs\InteractiveExercises\VSProjects\Warmups\Warmups.Tests\bin\Debug\Warmups.BLL.dll
+\\Mac\My Passport Pro\GuildDocs\InteractiveExercises\VSProjects\Warmups\Warmups.Tests\bin\Debug\Warmups.BLL.pdb
+\\Mac\My Passport Pro\GuildDocs\InteractiveExercises\VSProjects\Warmups\Warmups.Tests\bin\Debug\nunit.framework.xml
+\\Mac\My Passport Pro\GuildDocs\InteractiveExercises\VSProjects\Warmups\Warmups.Tests\obj\Debug\Warmups.Tests.csprojResolveAssemblyReference.cache
+\\Mac\My Passport Pro\GuildDocs\InteractiveExercises\VSProjects\Warmups\Warmups.Tests\obj\Debug\Warmups.Tests.dll
+\\Mac\My Passport Pro\GuildDocs\InteractiveExercises\VSProjects\Warmups\Warmups.Tests\obj\Debug\Warmups.Tests.pdb
+C:\Users\benet\Coding\ben-etzkorn-individual-work\Warmups\Warmups.Tests\bin\Debug\Warmups.Tests.dll
+C:\Users\benet\Coding\ben-etzkorn-individual-work\Warmups\Warmups.Tests\bin\Debug\Warmups.Tests.pdb
+C:\Users\benet\Coding\ben-etzkorn-individual-work\Warmups\Warmups.Tests\bin\Debug\nunit.framework.dll
+C:\Users\benet\Coding\ben-etzkorn-individual-work\Warmups\Warmups.Tests\bin\Debug\Warmups.BLL.dll
+C:\Users\benet\Coding\ben-etzkorn-individual-work\Warmups\Warmups.Tests\bin\Debug\Warmups.BLL.pdb
+C:\Users\benet\Coding\ben-etzkorn-individual-work\Warmups\Warmups.Tests\bin\Debug\nunit.framework.xml
+C:\Users\benet\Coding\ben-etzkorn-individual-work\Warmups\Warmups.Tests\obj\Debug\Warmups.Tests.csprojResolveAssemblyReference.cache
+C:\Users\benet\Coding\ben-etzkorn-individual-work\Warmups\Warmups.Tests\obj\Debug\Warmups.Tests.dll
+C:\Users\benet\Coding\ben-etzkorn-individual-work\Warmups\Warmups.Tests\obj\Debug\Warmups.Tests.pdb

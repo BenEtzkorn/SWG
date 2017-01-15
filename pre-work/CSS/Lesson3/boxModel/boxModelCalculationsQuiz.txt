@@ -1,0 +1,9 @@
+
+
+Total Width = 2x20px + 2x1px + 2x10px +400px = 462px
+
+Total Height = 2x20px + 2x1px + 2x10px +150px = 212px
+
+BCW = 2x10px + 2x1px + 400px = 422px
+
+BCH = 2x10px + 2x1px + 150px = 172px

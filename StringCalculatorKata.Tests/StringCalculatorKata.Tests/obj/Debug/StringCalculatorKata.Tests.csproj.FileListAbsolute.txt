@@ -1,0 +1,9 @@
+C:\Users\benet\Coding\ben-etzkorn-individual-work\StringCalculatorKata.Tests\StringCalculatorKata.Tests\obj\Debug\StringCalculatorKata.Tests.csprojResolveAssemblyReference.cache
+C:\Users\benet\Coding\ben-etzkorn-individual-work\StringCalculatorKata.Tests\StringCalculatorKata.Tests\bin\Debug\StringCalculatorKata.Tests.dll
+C:\Users\benet\Coding\ben-etzkorn-individual-work\StringCalculatorKata.Tests\StringCalculatorKata.Tests\bin\Debug\StringCalculatorKata.Tests.pdb
+C:\Users\benet\Coding\ben-etzkorn-individual-work\StringCalculatorKata.Tests\StringCalculatorKata.Tests\bin\Debug\nunit.framework.dll
+C:\Users\benet\Coding\ben-etzkorn-individual-work\StringCalculatorKata.Tests\StringCalculatorKata.Tests\bin\Debug\StringCalculatorKata.dll
+C:\Users\benet\Coding\ben-etzkorn-individual-work\StringCalculatorKata.Tests\StringCalculatorKata.Tests\bin\Debug\StringCalculatorKata.pdb
+C:\Users\benet\Coding\ben-etzkorn-individual-work\StringCalculatorKata.Tests\StringCalculatorKata.Tests\bin\Debug\nunit.framework.xml
+C:\Users\benet\Coding\ben-etzkorn-individual-work\StringCalculatorKata.Tests\StringCalculatorKata.Tests\obj\Debug\StringCalculatorKata.Tests.dll
+C:\Users\benet\Coding\ben-etzkorn-individual-work\StringCalculatorKata.Tests\StringCalculatorKata.Tests\obj\Debug\StringCalculatorKata.Tests.pdb

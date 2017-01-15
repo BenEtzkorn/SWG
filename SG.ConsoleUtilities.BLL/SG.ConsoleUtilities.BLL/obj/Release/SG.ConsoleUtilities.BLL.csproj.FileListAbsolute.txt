@@ -1,0 +1,4 @@
+C:\Users\benet\Coding\ben-etzkorn-individual-work\SG.ConsoleUtilities.BLL\SG.ConsoleUtilities.BLL\bin\Release\SG.ConsoleUtilities.BLL.dll
+C:\Users\benet\Coding\ben-etzkorn-individual-work\SG.ConsoleUtilities.BLL\SG.ConsoleUtilities.BLL\bin\Release\SG.ConsoleUtilities.BLL.pdb
+C:\Users\benet\Coding\ben-etzkorn-individual-work\SG.ConsoleUtilities.BLL\SG.ConsoleUtilities.BLL\obj\Release\SG.ConsoleUtilities.BLL.dll
+C:\Users\benet\Coding\ben-etzkorn-individual-work\SG.ConsoleUtilities.BLL\SG.ConsoleUtilities.BLL\obj\Release\SG.ConsoleUtilities.BLL.pdb

@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+          <title> Menu </title>
+
+		<!-- I am parking my old external style sheet for the bootstrap style sheet, and and making it an internal style sheet-->
+		
+		<!--link rel="stylesheet" type="text/css" href="restaurantStyles.css"-->
+		
+		<!--Setting up bootstrap-->
+		
+		<link href="css/bootstrap.min.css" rel="stylesheet">
+		
+		<meta charset="utf-8"> 
+		
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+	<style>
+
+		body {
+				background-color: beige;
+		}
+		
+		h1 {
+				text-align: center;
+				font-family: "Ben Font";
+		} 
+
+		#footer {
+					  margin-bottom: 0px;
+					  height: auto;
+					  padding-top: 5px;
+					  margin-top: 15px;
+					  border-top: 1px solid black;
+					  background: beige;
+		} 
+
+		@font-face {
+						font-family: "Ben Font";
+						font-style: normal;
+						src: url("segoepr.ttf");
+		}
+
+		a:link{
+				text-decoration: underline;
+		}
+
+		a:visited{
+					text-decoration: underline;
+					color: green;
+		}
+
+		a:active{
+					text-decoration: none;
+		}
+
+		a:hover {
+					text-decoration: underline;
+					font-weight: bold;
+		}
+		
+		.nav-tabs {
+						border-top: 1px solid black;
+						border-bottom: 1px solid black;
+		}
+		
+		p {
+			text-align: center;
+		}
+		
+		.items{
+				text-align:center;
+				font-weight: bold;
+		}
+	
+		.details{
+				text-align:center;
+				margin-bottom: 10px;
+		}
+		
+	</style>
+
+	</head>
+
+    <body>
+
+		<!--This section is setting the top menu bar-->
+		<div class="page-header">
+
+			<h1>the burger joint</h1>
+			
+			<div class="container">
+								
+				<ul class="nav nav-tabs">
+				
+					<li><a href="index.html" target="_self"><span class="glyphicon glyphicon-home">&nbsp;</span>Home</a></li>
+					
+					<li><a href="menu.html" target="_self">Menu</a></li>
+					
+					<li><a href="contactUs.html" target="_self">Contact Us</a></li>
+					
+				</ul>
+
+			</div>
+
+		</div>
+		
+		<!--This section is the restaurant's menu-->
+
+		<div class="container">
+			
+			<div class="row details">
+				
+					<div class="col-md-4 row details">
+					<p class="row items">Burger and Fries</p>
+					An American Classic!<br>
+					Your choice - with or without cheese<br>
+					Pickle, onion, tomato, and lettuce<br>
+					Served with our famous thick cut<br>
+					french fries<br>
+					$7.95
+					</div>
+				
+					<div class="col-md-4 row details">
+					<p class="row items">Hot Dog and Chips</p>
+					A Summer Classic!<br>
+					Your choice - white or wheat bun<br>
+					Relish, mustard, and ketchup<br>
+					Served with our house-made chips<br>
+					$7.95
+					</div>
+				
+					<div class="col-md-4 row details">
+					<p class="row items">Italian Sausage and Peppers</p>
+					An All-Time Favorite!!<br>
+					Your choice - mild or spicy<br>
+					Cole Slaw<br>
+					Served with garlic mashers<br>
+					$10.95
+					</div>
+			
+			</div>
+
+			<div class="row details">
+				
+					<div class="col-md-4 row details">
+					<p class="row items">Tenderloin Sandwich and Chips</p>
+					Really Hits the Spot!<br>
+					Plain or Sesame Seed Bun<br>
+					Pickle, onion, tomato, and lettuce<br>
+					Served with our house-made chips<br>
+					$8.95
+					</div>
+				
+					<div class="col-md-4 row details">
+					<p class="row items">House Salad</p>
+					On the Lighter Side<br>
+					Your choice - with or without cheese<br>
+					Iceberg lettuce, tomatoes, peppers<br>
+					Thousand Island or Ranch Dressing<br>
+					$6.95
+					</div>
+				
+					<div class="col-md-4 row details">
+					<p class="row items">Brisket Sandwich and Fries</p>
+					A taste of Texas<br>
+					Smoked Brisket on thick-cut Texas Toast<br>
+					Cole Slaw<br>
+					Served with our fameous thick-cut<br>
+					french fries<br>
+					$7.95
+					</div>
+			
+			</div>
+				
+					<div class="col-md-12 details">
+					<p class="row items" style="text-decoration:underline;">Beverages</p>
+					Root Beer &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; $3.00<br>
+					Bottled Water &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; $1.25<br>
+					Lemonade &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; $1.00<br>
+					Iced Tea &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; $1.25<br>
+					</div>
+			
+		</div>
+		
+		<!--This section is setting the lower contact bar-->
+		
+		<div class="container" ID="footer">
+		
+			<div class="row">
+		  
+				<div class="col-md-12"></div>
+				
+					<div class="col-md-12">
+			 
+						<p>378 College Avenue, Clemson, SC 29631<br>
+							703-444-4646</p>
+					
+					</div>
+			  
+				<div class="col-xs-12 col-md-6 col-md-4"></div>
+		  
+			</div>
+		
+		</div>
+
+    </body>
+
+</html>

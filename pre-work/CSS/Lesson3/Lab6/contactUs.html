@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html>
+
+
+	<head>
+
+		<title>Contact Us</title>
+
+		<link rel="stylesheet" type="text/css" href="restaurantStyles.css">
+
+	<style>
+
+		table {
+				border: 0px;
+				width: auto;
+		}
+
+		td.left {
+					text-align: left;
+					vertical-align: center;
+					width: auto;
+		}
+
+		td.right {
+					text-align: right;
+					vertical-align: center;
+					width: auto;
+					height: 30px;
+					font-weight: bold;
+					padding-right: 30px;
+					padding-left: 30px;
+		}
+
+		td.righttop {
+						text-align: right;
+						vertical-align: top;
+						width: auto;
+						font-weight: bold;
+						padding-right: 30px;
+		}
+
+		td.center {
+					vertical-align: center;
+					width: 278px;
+					text-align: center;
+		}
+
+	</style>
+
+	</head>
+
+	<body>
+
+		<!--This section is setting the top menu bar-->
+
+		<div id="header">
+
+			<h1>the burger joint</h1>
+
+		</div>
+		
+		<div>
+		
+			<hr>
+
+				<ul id="navlist">
+					<li><a href="index.html" target="_self">Home</a></li>
+					<li><a href="menu.html" target="_self">Menu</a></li>
+					<li><a href="contactUs.html" target="_self">Contact Us</a></li>
+				</ul>
+
+			<hr>
+
+		</div>
+
+		<form action="http://theburgerjoint.com" method="POST"><br>
+
+		<table>
+			<tr>
+
+				<td class="right">
+					Name:</td>
+
+				<td class="left">
+				<input type="text" name="First Name:" size="35"><br></td>
+				</tr>
+
+			<tr>
+
+				<td class="right">
+					E-Mail:</td>
+
+				<td class="left">
+				<input type="email" name="email" id="email" size="35"><br></td>
+
+			</tr>
+
+			<tr>
+
+				<td class="right">
+					Phone:</td>
+
+				<td class="left">
+				<input type="text" name="Last Name:" size="35" ><br></td>
+
+			</tr>
+
+			<tr>
+
+				<td class="right">
+					Reason:</td>
+
+				<td class="left">
+					<select name="reason">
+
+						<option value="unknown">Catering</option>
+
+						<option value="software">Private Party</option>
+
+						<option value="hardware">Feedback</option>
+
+						<option value="info">Other</option>
+
+					</select><br>
+				</td>
+			</tr>
+
+			<tr>
+
+				<td class="righttop">
+					Additional Information:</td>
+
+				<td class="left">
+				<textarea name="AddInfo" rows="5" cols="36">
+
+				</textarea><br></td>
+
+			</tr>
+
+			<tr>
+
+				<td class="right">
+					Have you been to the restaurant?</td>
+
+				<td class="left">
+
+				<input type="radio" name="answer" value="No" checked>No
+
+				<input type="radio" name="answer" value="Yes">Yes <br></td>
+			</tr>
+
+			<tr>
+
+				<td class="right">
+					Best Days to contact you:</td>
+
+				<td class="left">
+
+				<input type="checkbox" name="myChoices"><b>M</b>
+
+				<input type="checkbox" name="myChoices"><b>T</b>
+
+				<input type="checkbox" name="myChoices"><b>W</b>
+
+				<input type="checkbox" name="myChoices"><b>Th</b>
+
+				<input type="checkbox" name="myChoices"><b>F</b><br></td>
+
+			</tr>
+
+			<tr>
+
+				<td class="right"></td>
+
+				<td class="center">
+
+				<input type="submit" value="Submit Request"><br></td>
+
+			</tr>
+
+		</table>
+
+		</form>
+
+
+
+	<!--This section is setting the lower contact bar-->
+
+	<div  id="footer">
+
+			<hr>
+
+			<p>378 College Avenue, Clemson, SC 29631</p>
+
+			<p>703-444-4646</p>
+
+	</div>
+
+	</body>
+
+</html>

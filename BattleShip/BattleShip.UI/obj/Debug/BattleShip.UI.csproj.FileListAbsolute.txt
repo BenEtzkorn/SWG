@@ -1,0 +1,9 @@
+C:\Users\Public\Documents\BitBucket\Microsoft\Labs\ExistingCode\Battleship\BattleShip_Start\BattleShip.UI\bin\Debug\BattleShip.UI.exe.config
+C:\Users\benet\Coding\ben-etzkorn-individual-work\BattleShip\BattleShip.UI\bin\Debug\BattleShip.UI.exe.config
+C:\Users\benet\Coding\ben-etzkorn-individual-work\BattleShip\BattleShip.UI\obj\Debug\BattleShip.UI.csprojResolveAssemblyReference.cache
+C:\Users\benet\Coding\ben-etzkorn-individual-work\BattleShip\BattleShip.UI\bin\Debug\BattleShip.UI.exe
+C:\Users\benet\Coding\ben-etzkorn-individual-work\BattleShip\BattleShip.UI\bin\Debug\BattleShip.UI.pdb
+C:\Users\benet\Coding\ben-etzkorn-individual-work\BattleShip\BattleShip.UI\bin\Debug\BattleShip.BLL.dll
+C:\Users\benet\Coding\ben-etzkorn-individual-work\BattleShip\BattleShip.UI\bin\Debug\BattleShip.BLL.pdb
+C:\Users\benet\Coding\ben-etzkorn-individual-work\BattleShip\BattleShip.UI\obj\Debug\BattleShip.UI.exe
+C:\Users\benet\Coding\ben-etzkorn-individual-work\BattleShip\BattleShip.UI\obj\Debug\BattleShip.UI.pdb

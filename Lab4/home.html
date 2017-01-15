@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html>
+  <head>
+
+    <title>Vending Machine</title>
+
+    <style>
+
+      th, td {
+          padding: 5px;
+          border: 1px solid black;
+      	   height: 100%;
+      }
+
+      table {
+            width: 100%;
+            height: 100%;
+            border-spacing: 30px;
+            text-align: center;
+      }
+
+      #nb {
+      	  border: none;
+          padding: 5px;
+          width: 100%;
+      }
+
+      #lessPad {
+        padding: 1px;
+      	border-spacing: 1px;
+      	border: 0px solid black;
+        width: 210px;
+      }
+
+
+      td {
+          width: 25%;
+      }
+
+      .tdbh:hover {
+          background: #305050;
+          color: #ffffff;
+      }
+
+      tr {
+          height: 100%;
+      }
+
+      #trSmall {
+      	border: 0px solid black;
+      	border-spacing: 1px;
+      }
+
+      #trBtmSmall {
+      	border-top: 0px solid black;
+      	border-left: 0px solid black;
+      	border-right: 0px solid black;
+      	border-spacing: 1px;
+      	border-bottom: 1px solid black !important;
+      }
+
+      #tdSmall {
+          border-spacing: 1px;
+      	border: 0px solid black;
+      }
+
+      .blankRow {
+          height: 10px !important;
+      }
+
+      span.left {
+      float:left;
+      }
+
+      span.center {
+      text-align:center;
+      }
+
+    </style>
+  </head>
+<body>
+
+<center><h2>Vending Machine</h2></center>
+<hr  width="100%" size="2" color="#00000">
+<table style="width:100%">
+  <tr style="border-bottom:1pt solid black;">
+    <td class = "tdbh" id="prod1">
+      <b><span class="left" id="spanId0">Id</span></b><p>
+      <span class="center" id="spanProd0">Product</span><p>
+      <span id="spanPrice0">Price</span><p>
+      <span id="spanQty0"></span>
+    <td class = "tdbh" id="prod2">
+        <b><span class="left" id="spanId1">Id</span></b><p>
+        <span class="center" id="spanProd1">Product</span><p>
+        <span id="spanPrice1">Price</span><p>
+        <span id="spanQty1"></span>
+    </td >
+    <td class = "tdbh" id="prod3">
+        <b><span class="left" id="spanId2">Id</span></b><p>
+        <span class="center" id="spanProd2">Product</span><p>
+        <span id="spanPrice2">Price</span><p>
+        <span id="spanQty2"></span>
+    </td>
+    <td id="nb">
+  		<table ID="lessPad">
+  			<tr id="trSmall">
+  				<td id="tdSmall" colspan="4">
+  				<font size="4">Total $ In</font>
+  				</td>
+  			</tr>
+  			<tr id="trSmall">
+  				<td id="tdSmall"></td>
+  				<td  colspan="2">
+  				<form>
+          <b><font size="4"><span class="list-group" id="totalDollars">$0.00</span></font></b>
+  				</form>
+  				</td>
+  				<td id="tdSmall"></td>
+  			</tr>
+  			<tr id="trSmall">
+  				<td id="tdSmall" colspan="2">
+  					<form>
+              <button type="button"
+                  id="dollar"
+                  class="btn btn-default">
+                Add Dollar
+              </button>
+  					</form>
+  				</td>
+  				<td id="tdSmall" colspan="2">
+  					<form>
+              <button type="button"
+                  id="quarter"
+                  class="btn btn-default">
+                Add Quarter
+              </button>
+  					</form>
+  				</td>
+  			</tr>
+  			<tr id="trBtmSmall"  >
+  				<td id="tdSmall" colspan="2">
+  					<form>
+              <button type="button"
+                  id="dime"
+                  class="btn btn-default">
+                Add Dime
+              </button>
+  					</form>
+  				</td>
+  				<td id="tdSmall" colspan="2">
+  					<form>
+              <button type="button"
+                  id="nickel"
+                  class="btn btn-default">
+                Add Nickel
+              </button>
+  					</form>
+  				</td>
+  			</tr>
+  		</table>
+	   </td>
+  </tr>
+
+  <tr>
+    <td class = "tdbh" id="prod4">
+      <b><span class="left" id="spanId3">Id</span></b><p>
+      <span class="center" id="spanProd3">Product</span><p>
+      <span id="spanPrice3">Price</span><p>
+      <span id="spanQty3"></span>
+    </td>
+    <td class = "tdbh" id="prod5">
+      <b><span class="left" id="spanId4">Id</span></b><p>
+      <span class="center" id="spanProd4">Product</span><p>
+      <span id="spanPrice4">Price</span><p>
+      <span id="spanQty4"></span>
+    </td>
+    <td class = "tdbh" id="prod6">
+      <b><span class="left" id="spanId5">Id</span></b><p>
+      <span class="center" id="spanProd5">Product</span><p>
+      <span id="spanPrice5">Price</span><p>
+      <span id="spanQty5"></span>
+    </td>
+    <td id="nb">
+  		<table ID="lessPad">
+  			<tr id="trSmall">
+  				<td id="tdSmall" colspan="4">
+  				<font size="4"><span>Messages</span></font>
+  				</td>
+  			</tr>
+  			<tr id="trSmall">
+  				<td  id="tdSmall" colspan="4">
+  				<form>
+  				<b><font size="3"><span id="message">Please select an item</span></font></b>
+  				</form>
+  				</td>
+  			</tr>
+  			<tr id="trSmall">
+  				<td id="tdSmall" colspan="2">
+  					<font size="4">Item:&nbsp;</font>
+  				</td>
+  				<td colspan="2">
+  					<b><font size="4"><span class="list-group" id="chosenItem">0</span></font></b>
+  				</td>
+  			</tr>
+  			<tr id="trBtmSmall"  >
+  				<td id="tdSmall" colspan="4">
+            <form>
+              <button type="button"
+                  id="purchase"
+                  class="btn btn-default">
+                Make Purchase
+              </button>
+  					</form>
+  				</td>
+  			</tr>
+  		</table>
+  	</td>
+    </tr>
+    <tr>
+      <td class = "tdbh"  id="prod7">
+        <b><span class="left" id="spanId6">Id</span></b><p>
+        <span class="center" id="spanProd6">Product</span><p>
+        <span id="spanPrice6">Price</span><p>
+        <span id="spanQty6"></span>
+      </td>
+      <td class = "tdbh"  id="prod8">
+        <b><span class="left" id="spanId7">Id</span></b><p>
+        <span class="center" id="spanProd7">Product</span><p>
+        <span id="spanPrice7">Price</span><p>
+        <span id="spanQty7"></span>
+      </td>
+      <td class = "tdbh" id="prod9">
+        <b><span class="left" id="spanId8">Id</span></b><p>
+        <span class="center" id="spanProd8">Product</span><p>
+        <span id="spanPrice8">Price</span><p>
+        <span id="spanQty8"></span>
+      </td>
+      <td id="nb">
+  		<table ID="lessPad">
+  			<tr id="trSmall">
+  				<td id="tdSmall" colspan="4">
+  				<font size="4">Change</font>
+  				</td>
+  			</tr>
+        <tr>
+  				<td  colspan="4">
+  				<form>
+  				<font size="2"><spam id="change">None</span></font>
+  				</form>
+  				</td>
+          <tr id="trBtmSmall"  >
+    				<td id="tdSmall" colspan="4">
+              <form>
+                <button type="button"
+                    id="returnChange"
+                    class="btn btn-default">
+                  Change Return
+                </button>
+    					</form>
+    				</td>
+    			</tr>
+  				<tr  class="blankRow" id="trSmall"><td colspan="4" id="tdSmall">&nbsp;</td></tr>
+  			</tr>
+  		</table>
+	   </td>
+  </tr>
+
+</table>
+
+<script src="js/jquery-2.2.4.min.js"></script>
+<script src="js/bootstrap.js"></script>
+<script src="js/home.js"></script>
+
+</body>
+
+</html>

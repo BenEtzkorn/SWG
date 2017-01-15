@@ -1,0 +1,87 @@
+﻿@model Exercises.Models.ViewModels.EditVM
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<div class="row">
+    <div class="col-xs-12">
+        <h3>Edit Student</h3>
+        @Html.ActionLink("Return to List", "List", "Student")
+    </div>
+</div>
+<div class="row">
+    <div class="col-xs-12">
+        @using (Html.BeginForm())
+        {
+            @Html.ValidationSummary()
+            @Html.HiddenFor(m => m.Student.StudentId)
+            <div class="col-xs-12 col-sm-9">
+                <div class="panel panel-primary">
+                    <div class="panel-heading">
+                        <h4 class="panel-title">Personal Details</h4>
+                    </div>
+                    <div class="panel-body">
+                        <div class="form-group">
+                            <div class="row">
+                                <div class="col-xs-6">
+                                    <label>First Name:</label>
+                                    @Html.TextBoxFor(m => m.Student.FirstName, new { @class = "form-control", placeholder = "FirstName" })
+                                </div>
+                                <div class="col-xs-6">
+                                    <label>Street Line 1:</label>
+                                    @Html.TextBoxFor(m => m.Student.Address.Street1, new { @class = "form-control", placeholder = "Street1" })
+                                </div>
+                            </div>
+
+                            <div class="row">
+                                <div class="col-xs-6">
+                                    <label>Last Name:</label>
+                                    @Html.TextBoxFor(m => m.Student.LastName, new { @class = "form-control", placeholder = "LastName" })
+                                </div>
+                                <div class="col-xs-6">
+                                    <label>Street Line 2:</label>
+                                    @Html.TextBoxFor(m => m.Student.Address.Street2, new { @class = "form-control", placeholder = "Street2" })
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-xs-6">
+                                    <label>Major:</label>
+                                    @Html.DropDownListFor(m => m.Student.Major.MajorId, Model.MajorItems, new { @class = "form-control"})
+                                </div>
+                                <div class="col-xs-6">
+                                    <label>City:</label>
+                                    @Html.TextBoxFor(m => m.Student.Address.City, new { @class = "form-control", placeholder = "City" })
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-xs-6">
+                                    <label>GPA:</label>
+                                    @Html.TextBoxFor(m => m.Student.GPA, new { @class = "form-control", placeholder = "GPA" })
+                                </div>
+                                <div class="col-xs-6">
+                                    <label>State:</label>
+                                    @Html.TextBoxFor(m => m.Student.Address.State.StateName, new { @class = "form-control", placeholder = "State" })
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-xs-6">
+                                    <h4>Courses</h4>
+                                    @Html.DropDownList("Courses", new MultiSelectList(Model.CourseItems, "Value", "Text", Model.Student.Courses.Select(c => c.CourseId.ToString())), new {multiple = "multiple"})
+                                    @Html.TextBoxFor(m=>m.SelectedCourseIds, Model.CourseItems.ToString(), new { @class = "form-control" })
+                                </div>
+                                <div class="col-xs-6">
+                                    <h4>Zip Code</h4>
+                                    @Html.TextBoxFor(m => m.Student.Address.PostalCode, new { @class = "form-control", placeholder = "PostalCode" })
+                                </div>
+                            </div>
+                            <div class="row">
+                                <button class="btn btn-primary pull-right">Save</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>      
